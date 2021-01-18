@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>3458299486</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\common.c</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdbool.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\sys.c</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\sys.__cstat.et</file>
+            <file>$PROJ_DIR$\..\LPR_LPLVR.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\acmp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\wkt.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\power.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\pwm123.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\spi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\uart2.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\power.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\exint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\eeprom.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\capture.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\adc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\IAP.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\delay.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\vref.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\pwm0.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\lowpower.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\lcd.h</file>
+            <file>$TOOLKIT_DIR$\config\devices\NuvoTon\lnk51ew_ML51.xcl</file>
+            <file>$PROJ_DIR$\Debug\List\TLPR_LPLVR.map</file>
+            <file>$TOOLKIT_DIR$\lib\clib\cl-pli-nsic-2h16inc.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\LPR_LPLVR.r51</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\sys.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\IAP_SPROM.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\wkt.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\Device\Include\SFR_Macro_ML51_IAR.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\wkt.r51</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\acmp.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\power.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\pinint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\TrimLIRC.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\acmp.r51</file>
+            <file>$PROJ_DIR$\Debug\Obj\power.r51</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\uart3.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\Device\Include\Function_define_ML51_IAR.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\wdt.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\wkt.h</file>
+            <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\pdma.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\Device\Include\ML51_XSFR_IAR.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\eeprom_sprom.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\acmp.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Exe\TLPR_LPLVR.d51</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\Device\Include\ML51_IAR.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LPR_LPLVR.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\sys.r51</file>
+            <file>$PROJ_DIR$\..\..\..\..\Library\StdDriver\inc\bod.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\LPR_LPLVR.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\LPR_LPLVR.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\power.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\sys.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\common.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\wkt.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\acmp.pbi</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 56 36 3 40 50 34 4 1 52 47 38 19 59 18 21 17 53 16 13 20 33 25 24 51 41 14 23 10 15 11 32 42 45 12 46 22 48 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 46 38 23 36 4 21 24 32 3 52 59 53 33 41 15 45 48 40 50 34 1 47 19 18 17 16 20 25 51 14 10 11 42 12 22 49 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\sys.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 58</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 56 36 3 40 50 34 4 1 52 47 38 19 59 18 21 17 53 16 13 20 33 25 24 51 41 14 23 10 15 11 32 42 45 12 46 22 48 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22 20 19 10 1 17 51 42 34 47 18 16 25 14 11 12 49 50 36 3 4 52 38 59 21 53 13 33 24 41 23 15 32 45 46 48 40 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\LPR_LPLVR.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 56 36 3 40 50 34 4 1 52 47 38 19 59 18 21 17 53 16 13 20 33 25 24 51 41 14 23 10 15 11 32 42 45 12 46 22 48 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19 10 20 22 1 17 51 42 34 47 18 16 25 14 11 12 49 50 36 3 4 52 38 59 21 53 13 33 24 41 23 15 32 45 46 48 40 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\acmp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 56 36 3 40 50 34 4 1 52 47 38 19 59 18 21 17 53 16 13 20 33 25 24 51 41 14 23 10 15 11 32 42 45 12 46 22 48 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47 14 16 12 34 18 25 11 49 50 1 19 17 20 51 10 42 22 36 3 4 52 38 59 21 53 13 33 24 41 23 15 32 45 46 48 40 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\wkt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 56 36 3 40 50 34 4 1 52 47 38 19 59 18 21 17 53 16 13 20 33 25 24 51 41 14 23 10 15 11 32 42 45 12 46 22 48 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 4 36 24 21 32 38 13 23 46 3 52 59 53 33 41 15 45 48 40 50 34 1 47 19 18 17 16 20 25 51 14 10 11 42 12 22 49 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\Library\StdDriver\src\power.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC8051</name>
+                    <file> 56 36 3 40 50 34 4 1 52 47 38 19 59 18 21 17 53 16 13 20 33 25 24 51 41 14 23 10 15 11 32 42 45 12 46 22 48 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32 21 36 4 24 38 13 23 46 3 52 59 53 33 41 15 45 48 40 50 34 1 47 19 18 17 16 20 25 51 14 10 11 42 12 22 49 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 55 27</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\TLPR_LPLVR.d51</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 26 43 29 31 44 58 37 28</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>XLINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
